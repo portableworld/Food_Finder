@@ -1,0 +1,3 @@
+Hot Tamale	Mexican	25
+Sandwich Heaven	Soup	10
+Cafe Masala	Indian	30
